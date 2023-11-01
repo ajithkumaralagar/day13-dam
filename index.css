@@ -1,0 +1,17 @@
+.text-color{
+    color: aqua;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blanchedalmond;
+}
+.boxwrap{
+    border:2px solid black;
+    background-color: aqua;
+}
+.paflex{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+}
